@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/universe.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	color: #183069;
+}
+
+a {
+	text-decoration: none;
+}
+
+
